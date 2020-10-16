@@ -11,10 +11,11 @@
     android:paddingTop="16dp"
     tools:context=".MainActivity">
 
-    
+
     <TextView
-        android:layout_width="wrap_content"
+        android:layout_width="300dp"
         android:layout_height="wrap_content"
-        android:text="Hello Android!"/>
+        android:text="@string/hello_android"
+        android:textSize="40sp" />
 
 </LinearLayout>
